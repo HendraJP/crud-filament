@@ -23,9 +23,7 @@ class KrsMataKuliahResource extends Resource
     {
         return $form
             ->schema([
-                //hgmhgg
-                //khggjjghjh,jgkg
-                TextInput::()
+                
             ]);
     }
 
